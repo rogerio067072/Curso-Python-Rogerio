@@ -1,0 +1,17 @@
+# Backup do Módulo de Configuração (M0) - Rogerio
+Data de Conclusão: [Insira a data de hoje]
+
+## Tópicos Abordados
+- Instalação e verificação do Python 3.13.7.
+- Instalação do VSCode.
+- Instalação e configuração global do Git (user.name e user.email).
+- Criação e inicialização do repositório local 'Curso-Python-Rogerio'.
+- Primeiro commit local.
+- Criação do repositório remoto no GitHub.
+- Conexão e envio (push) do código para o GitHub.
+
+## Desempenho do Aluno
+- Instalação e configuração do ambiente: Concluído com sucesso.
+
+## Próximo Tópico
+- Parte I do Livro Mark Lutz: Introdução e Primeiros Comandos (Módulo 1).
